@@ -11,11 +11,11 @@ close all
 clear
 clc
 %% Simulation for Motor Behaviour
-L = 0.55;
-R = 3;
-K = 0.085;
-J = 0.6;
-b = 0.25;
+L = 0.5;
+R = 1;
+K = 0.1;
+J = 0.15;
+b = 0.1;
 
 sim('Motor_Model_Simscape.mdl');
 %% Measurement with Noise
