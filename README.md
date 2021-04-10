@@ -8,4 +8,5 @@
 % Visit:  shailjadav.github.io
 % December 10,2020
 
-% Please use it for educational purposes only.
+I believe in sharing, and it's my way to make the world a better place. If this code helps you in any way, consider doing one good thing for the world!
+Enjoy!
